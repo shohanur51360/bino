@@ -1,0 +1,369 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 480px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  /*css code start*/
+.header-section {
+    height: 2233px!important;
+}
+.btn1 {
+    margin: 0px 0px 27px 0px!important;
+}
+.btn2 {
+    margin: 0px 0px 0px 0px!important;
+}
+.banner-section {
+    margin-top: -1182px!important;
+}
+.banner-section p {
+    margin: 9px 0px 31px 0px!important;
+}
+.right-heading {
+    margin: 55px 0px 0px 0px!important;
+}
+.service-left h1 {
+    margin: 0px 93px 75px 0px!important;
+    line-height: 51px!important;
+}
+.service {
+    margin: 0px 0px 0px -106px!important;
+}
+.service p {
+    margin: -8px 0px 64px 0px!important;
+    font-size: 11px!important;
+}
+.service-section {
+    height: 1003px!important;
+}
+.service-right {
+    margin: -622px 0px 0px 0px!important;
+}
+.service-right img {
+    margin: -7px 0px 126px 0px!important;
+}
+.r1 .port {
+    margin: -321px 0px 0px 0px!important;
+    height: 291px!important;
+}
+.left {
+    margin: 0px 0px 28px -39px!important;
+}
+.btn:not(:disabled):not(.disabled).active {
+    width: 57%!important;
+}
+.cicon {
+    margin-left: 0px!important;
+    margin-bottom: 60px!important;
+}
+.intigration-section {
+    height: 2829px!important;
+}
+.sponser img {
+    margin: 45px 0px 0px 0px!important;
+    width: 80%!important;
+}
+.bottom-header h1 {
+    font-size: 11px!important;
+    margin: 0px 0px 0px 20px!important;
+}
+.bottom-footer h4 {
+    font-size: 10px!important;
+    margin: 0px 0px 16px 10px!important;
+    width: 48%!important;
+}
+.blog-bottom {
+    height: 966px!important;
+}
+.address {
+    margin: 78px 0px 0px 0px!important;
+}
+.call {
+    margin: 78px 0px 0px 0px!important;
+}
+.email {
+    margin: 78px 0px 0px 0px!important;
+}
+.touch-left {
+    margin: 0px 0px 24px 0px!important;
+}
+.top {
+    margin: -165px 0px 4px 0px!important;
+}
+  /*css code end*/
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    /*css code start*/
+.header-section {
+    height: 2233px!important;
+}
+.btn1 {
+    margin: 0px 0px 27px 0px!important;
+}
+.btn2 {
+    margin: 0px 0px 0px 0px!important;
+}
+.banner-section {
+    margin-top: -1182px!important;
+}
+.banner-section p {
+    margin: 9px 0px 31px 0px!important;
+}
+.right-heading {
+    margin: 55px 0px 0px 0px!important;
+}
+.right-heading p {
+    font-size: 16px!important;
+}
+.service-left {
+    margin: 149px 0px 0px -67px!important;
+}
+.service-left h1 {
+    margin: 0px 93px 75px 0px!important;
+    line-height: 51px!important;
+}
+.service {
+    margin: 0px 0px 0px -106px!important;
+}
+.service p {
+    margin: -8px 0px 64px 0px!important;
+    font-size: 14px!important;
+}
+.service-section {
+    height: 1003px!important;
+}
+.service-right {
+    margin: -587px 61px 0px 0px!important;
+}
+.service-right img {
+    margin: -7px 0px 126px 0px!important;
+}
+.r1 .port {
+    margin: -485px 0px 0px 0px!important;
+    height: 460px!important;
+    width: 95%!important;
+}
+
+.port img {
+    margin: 331px 0px 25px -149px!important;
+}
+.left {
+    margin: 0px 0px 28px -56px!important;
+}
+.left h1 {
+    margin: 0px 0px 26px 0px!important;
+    font-size: 13px!important;
+}
+.left p {
+    margin: 24px 0px 54px 0px!important;
+    font-size: 13px!important;
+}
+.btn:not(:disabled):not(.disabled).active {
+    width: 57%!important;
+}
+.card-1 {
+    margin: 0px 0px 26px 0px!important;
+}
+.card-2 {
+    margin: 0px 0px 26px 0px!important;
+}
+
+.cicon {
+    margin-left: 0px!important;
+    margin-bottom: 60px!important;
+}
+.intigration-section {
+    height: 3140px!important;
+}
+
+
+.sponser img {
+    margin: 45px 0px 0px 0px!important;
+    width: 80%!important;
+}
+.bottom-header h1 {
+    font-size: 11px!important;
+    margin: 0px 0px 0px 20px!important;
+}
+.bottom-footer h4 {
+    font-size: 10px!important;
+    margin: 0px 0px 16px 10px!important;
+    width: 48%!important;
+}
+.blog-bottom {
+    height: 856px!important;
+}
+
+.address {
+    margin: 78px 0px 0px 41px!important;
+}
+.call {
+    margin: 78px 0px 0px 41px!important;
+}
+.email {
+    margin: 78px 0px 0px 41px!important;
+}
+.touch-left {
+    margin: -35px 0px 24px 0px!important;
+}
+.top {
+    margin: -139px 0px 4px 0px!important;
+}
+
+
+  /*css code end*/
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /*css code start*/
+.header-section {
+    height: 2233px!important;
+}
+.titel-inner p {
+    font-size: 17px!important;
+    line-height: 40px!important;
+}
+.btn1 {
+    margin: 0px 0px 27px 0px!important;
+}
+.btn2 {
+    margin: 0px 0px 0px 0px!important;
+}
+.banner-section {
+    margin-top: -1182px!important;
+}
+.banner-section p {
+    margin: 9px 0px 31px 0px!important;
+}
+.right-heading {
+    margin: 55px 0px 0px 0px!important;
+}
+.right-heading p {
+    font-size: 16px!important;
+}
+.service-left {
+    margin: 149px 0px 0px 75px!important;
+}
+.service-left h1 {
+    margin: 0px 93px 75px 0px!important;
+    line-height: 51px!important;
+}
+.service {
+    margin: 0px 0px 0px -106px!important;
+}
+.service p {
+    margin: -8px 0px 64px 0px!important;
+    font-size: 14px!important;
+}
+.service-section {
+    height: 1003px!important;
+}
+.service-right {
+    margin: -587px -343px 0px 0px!important;
+}
+
+
+.service-right img {
+    margin: -7px 0px 126px 0px!important;
+}
+.r1 .port {
+    margin: -187px 0px 0px 0px!important;
+    height: 158px!important;
+    width: 86%!important;
+}
+.port img {
+    margin: 62px 0px 25px -149px!important;
+}
+.port h2 {
+    margin: -8px 0px 13px -32px!important;
+    font-size: 13px!important;
+}
+.port h5 {
+    margin: 0px 0px 18px -26px!important;
+    font-size: 12px!important;
+}
+.left {
+    margin: 0px 0px 28px -122px!important;
+}
+
+.left h1 {
+    margin: 0px 0px 26px 0px!important;
+    font-size: 13px!important;
+}
+.left p {
+    margin: 24px 0px 54px 0px!important;
+    font-size: 13px!important;
+}
+.btn:not(:disabled):not(.disabled).active {
+    width: 26%!important;
+}
+.card-1 {
+    margin: 0px 0px 26px -22px!important;
+}
+.card-2 {
+    margin: 0px 0px 26px -17px!important;
+}
+.card-3 {
+    margin: 0px 0px 26px -30px!important;
+}
+.cicon {
+    margin-left: 61px!important;
+    margin-bottom: 0px!important;
+}
+.intigration-section {
+    height: 672px!important;
+}
+.sponser img {
+    margin: 45px 0px 0px 0px!important;
+    width: 100%!important;
+}
+.bottom-header h1 {
+    font-size: 11px!important;
+    margin: 0px 0px 0px 20px!important;
+}
+.bottom-footer h4 {
+    font-size: 10px!important;
+    margin: 0px 0px 16px 10px!important;
+    width: 100%!important;
+}
+.blog-bottom {
+    height: 1256px!important;
+}
+.address {
+    margin: 78px 0px 0px 41px!important;
+}
+.call {
+    margin: 78px 0px 0px 41px!important;
+}
+.email {
+    margin: 78px 0px 0px 41px!important;
+}
+.touch-left {
+    margin: 0px 0px 24px 0px!important;
+     padding: 75px 0px 65px 16px!important;
+}
+.top {
+    margin: -99px 0px 4px 0px!important;
+}
+
+
+  /*css code end*/
+  
+}
+
+
+
